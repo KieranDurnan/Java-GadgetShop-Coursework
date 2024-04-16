@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mobile
+comment1.params=gadgetPrice\ gadgetWeight\ gadgetmodel\ gadgetSize_HeightmmxWidthmmxDepthmm\ callCredit
+comment1.target=Mobile(double,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ getGadgetInfo()
+comment2.text=\ This\ method\ prints\ the\ information\ about\ the\ gadget\ using\ the\ method\ in\ the\ superclass\r\n\ as\ well\ as\ the\ credit\ variable\ from\ this\ class.\r\n
+comment3.params=
+comment3.target=int\ getCreditBalance()
+comment4.params=creditDeposit
+comment4.target=void\ addCredit(int)
+comment4.text=This\ method\ increases\ the\ credit\ balance\ on\ the\ mobile\ by\ taking\r\n\ the\ credit\ balance\ and\ increasing\ by\ the\ input\ amount.\r\n\ If\ the\ deposit\ amount\ is\ less\ than\ or\ equal\ to\ '0'\ an\ error\ message.\r\n
+comment5.params=phoneNumber\ callDuration
+comment5.target=void\ makeCall(java.lang.String,\ int)
+numComments=6
