@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Music
+comment1.params=albumTitle\ downloadSize
+comment1.target=Music(java.lang.String,\ int)
+numComments=2

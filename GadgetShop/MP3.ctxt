@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MP3
+comment1.params=gadgetPrice\ gadgetWeight\ gadgetmodel\ gadgetSize_HeightmmxWidthmmxDepthmm\ availableMemory
+comment1.target=MP3(double,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ getGadgetInfo()
+comment2.text=\ This\ method\ prints\ the\ information\ about\ the\ gadget\ using\ the\ method\ in\ the\ superclass\r\n\ as\ well\ as\ the\ remaining\ memory\ from\ this\ class.\r\n
+comment3.params=
+comment3.target=int\ getAvailableMemory()
+comment4.params=albumTitle\ downloadSize
+comment4.target=void\ downloadMusic(java.lang.String,\ int)
+comment5.params=albumNumber
+comment5.target=void\ deleteMusic(int)
+comment5.text=This\ method\ deletes\ music\ by\ accepting\ the\ album\ number,\ this\ references\ it's\ position\ in\ the\r\n\ ArrayList.\ It\ then\ removes\ the\ both\ the\ album\ title\ and\ the\ corresponding\ memory\ value.\r\n\ The\ memory\ value\ of\ index\ is\ then\ added\ back\ onto\ the\ amount\ of\ memory\ left.\r\n
+comment6.params=
+comment6.target=int\ getMemory()
+numComments=7
